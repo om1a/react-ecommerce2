@@ -12,7 +12,7 @@ export default function Navbar({user,setUser}) {
     <nav className="navbar navbar-expand-lg bg-body-tertiary bg-dark text-light text-center p-3">
       <div className="container">
         <a className="navbar-brand" href="#">
-          M-shop
+          O-shop
         </a>
         <button
           className="navbar-toggler"
